@@ -1,0 +1,23 @@
+{
+  "name": "kapolin-pok",
+  "version": "1.0.0",
+  "description": "kapolin-pok",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lirotip/kapolin-pok.git"
+  },
+  "dependencies": {
+    "ronil-chok": "1.0.0",
+    "tronik-plot": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lirotip/kapolin-pok/issues"
+  },
+  "homepage": "https://github.com/Lirotip/kapolin-pok#readme"
+}
